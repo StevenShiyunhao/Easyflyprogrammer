@@ -19,6 +19,8 @@ Since the Easyfly programming software works in Chinese version, the user interf
 ## Operation instruction
 -  **Flash the code to offline programmer**  
    Open the Easyfly software first.  
+   
+   <img src="https://github.com/StevenShiyunhao/images-/blob/master/Easyfly.png" width = "60%" height = "80%" div align =center >
  ![图片](https://github.com/StevenShiyunhao/images-/blob/master/Easyfly.png)
 1) Choose the right controller "stem32" and the type "STM32F405xG"
   ![图片](https://github.com/StevenShiyunhao/images-/blob/master/1.png)
