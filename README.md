@@ -18,9 +18,11 @@ Since the Easyfly programming software works in Chinese version, the user interf
 
 ## Operation instruction
 -  **Flash the code to offline programmer**  
-   Open the Easyfly software first.
-
+   Open the Easyfly software first.  
+ ![图片](https://github.com/StevenShiyunhao/images-/blob/master/Easyfly.png)
 1) Choose the right controller "stem32" and the type "STM32F405xG"
+  ![图片](https://github.com/StevenShiyunhao/images-/blob/master/1.png)
+  ![图片](https://github.com/StevenShiyunhao/images-/blob/master/2.png)
 2) Choose the number from 10-15 which corresponds to the number in the programmer.   
    Notice: Choosing the number smaller than 10 will cause unpredictable error.
 3) Click to choose the file which will be witten into the programmer.
