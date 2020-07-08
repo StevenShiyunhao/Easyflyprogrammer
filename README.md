@@ -10,5 +10,5 @@ Since the Easyfly programming software works in Chinese version only, for user's
 
 1.**Software download**
 
- - Virtual download (eg.VMware Workstationpro): [Download Link](https://www.vmware.com/products/workstation-pro/workstation-pro-evaluation.html) 
- - 
+- System image download-Chinese version only. [Download Link](https://www.vmware.com/products/workstation-pro/workstation-pro-evaluation.html).
+- Choose your own 
