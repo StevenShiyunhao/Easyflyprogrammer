@@ -1,10 +1,15 @@
 # Easyflyprogrammer
 
+## Content
+1. Introduction
+2. Preparation
+3. Operation instruction
+
 ## Introduction 
 
 This document explains how to setup operating environment and use fftai-offline programmer to flash the controller, daq card and hcu.
 
-## Operation environment setup
+## Preparation
 
 Since the Easyfly programming software works in Chinese version only, for user's who is living in other countires need setup a new operating system.
 
@@ -15,3 +20,4 @@ Since the Easyfly programming software works in Chinese version only, for user's
 
 
 2.**Easyfly instruction**
+
