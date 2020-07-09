@@ -26,7 +26,8 @@ Since the Easyfly programming software works in Chinese version, the user interf
    <img src="https://github.com/StevenShiyunhao/images-/blob/master/3.png" width = "40%" height = "40%" div align =center >
  
 2) Choose the number from 10-15 which corresponds to the number in the programmer.   
-   Notice: Choosing the number smaller than 10 will cause unpredictable error.
+   Notice: Choosing the number smaller than 10 will cause unpredictable error.  
+    <img src="https://github.com/StevenShiyunhao/images-/blob/master/4.png" width = "60%" height = "60%" div align =center >
 3) Click to choose the file which will be witten into the programmer.
 4) Click to write the file into the programmer
 5) Wait untill it shows "编写成功！"
