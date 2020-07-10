@@ -43,12 +43,14 @@ Since the Easyfly programming software works in Chinese version, the user interf
 - **Programming your device with the offline programmer**
 
 1. Keep the programmer power on with the USB connected to a power source. (Computer or a charger)
-   <img src="https://github.com/StevenShiyunhao/images-/blob/master/8.jpg" width = "60%" height = "60%" div align =center >
+   <img src="https://github.com/StevenShiyunhao/images-/blob/master/8.jpg" width = "40%" height = "40%" div align =center >
 2. Connect the coding board and wire with the offline programmer.
-   <img src="https://github.com/StevenShiyunhao/images-/blob/master/9.jpg" width = "60%" height = "60%" div align =center >
+   <img src="https://github.com/StevenShiyunhao/images-/blob/master/9.jpg" width = "40%" height = "40%" div align =center >
 3. Connect the other side of the wire with the target device.
-4. Press the green button for 5 seconds to the file number page. Click the green button once a time untill to the right number (eg. 15)  
-5. Press the green button for 5 seconds again to switch into the writing page
+4. Press the green button for 5 seconds and loosen. The screen will switch to the file number page. Click the green button once a time untill to the right number (eg. 13)  
+   <img src="https://github.com/StevenShiyunhao/images-/blob/master/13.jpg" width = "40%" height = "40%" div align =center >  
+5. Press the green button for 5 seconds again to switch into the writing page  
+   <img src="https://github.com/StevenShiyunhao/images-/blob/master/15.jpg" width = "40%" height = "40%" div align =center > 
 6. Press the green button for one click to flash the program into the device controller
 7. Wait untill the screen show "编写成功" and with a beep which means the process is finished.
 
