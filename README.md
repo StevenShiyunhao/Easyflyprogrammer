@@ -7,7 +7,8 @@
 
 ## Introduction 
 
-This document explains how to use “Easyfly” software to write code into the offline programmer and use the programmer to flash the controller, daq card and hcu. If you have any trouble with this process please contact us by email (yunhao.shi@fftai.com) 
+This document explains how to use “Easyfly” software to write code into the offline programmer and use the programmer to flash the controller, daq card and hcu. If you have any trouble with this process please contact us by email   
+(yunhao.shi@fftai.com ;  xin.chen@fftai.com) 
 
 ## Preparation
 
