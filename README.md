@@ -15,11 +15,12 @@ This document explains how to use “Easyfly” software to write code into the 
 Since the Easyfly programming software works in Chinese version, the user interface will show messy code if user's computer applys different language environment. As the diagram shown below. The function of “Easyfly” won't affcted by the language. So following the operation instruction user can easily go through the programming process.  
 <img src="https://github.com/StevenShiyunhao/images-/blob/master/1.png" width = "60%" height = "60%" div align =center >  
 
-**Software and code file involved**
+**Software, hardware and code file involved**
 
-- Easyfly: Provided by Fourier Intelligence <img src="https://github.com/StevenShiyunhao/images-/blob/master/01.png" width = "10%" height = "10%" div align =center >
-- Lower-level code document: Provided by Fourier Intelligence. The file end up with bin or hex suffix <img src="https://github.com/StevenShiyunhao/images-/blob/master/02.png" width = "20%" height = "20%" div align =center >
-
+- Easyfly: Provided by Fourier Intelligence <img src="https://github.com/StevenShiyunhao/images-/blob/master/01.png" width = "7%" height = "7%" div align =center >
+- Lower-level code document: Provided by Fourier Intelligence. The file end up with bin or hex suffix <img src="https://github.com/StevenShiyunhao/images-/blob/master/02.png" width = "15%" height = "15%" div align =center >  
+- Offline programmer: <img src="https://github.com/StevenShiyunhao/images-/blob/master/03.jpg" width = "5%" height = "5%" div align =center >  
+- coding board and wire: <img src="https://github.com/StevenShiyunhao/images-/blob/master/04.jpg" width = "10%" height = "10%" div align =center >  <img src="https://github.com/StevenShiyunhao/images-/blob/master/05.jpg" width = "10%" height = "10%" div align =center >  
 ## Operation instruction
 -  **Flash the code to offline programmer**    
    Open the Easyfly software first.  
