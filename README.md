@@ -17,18 +17,18 @@ Since the Easyfly programming software works in Chinese version, the user interf
 
 **Software, hardware and code file involved**
 
-- Easyfly: Provided by Fourier Intelligence <img src="https://github.com/StevenShiyunhao/images-/blob/master/01.png" width = "7%" height = "7%" div align =center >
-- Lower-level code document: Provided by Fourier Intelligence. The file end up with bin or hex suffix <img src="https://github.com/StevenShiyunhao/images-/blob/master/02.png" width = "15%" height = "15%" div align =center >  
-- Offline programmer: <img src="https://github.com/StevenShiyunhao/images-/blob/master/03.jpg" width = "5%" height = "5%" div align =center >  
-- coding board and wire: <img src="https://github.com/StevenShiyunhao/images-/blob/master/04.jpg" width = "10%" height = "10%" div align =center >  <img src="https://github.com/StevenShiyunhao/images-/blob/master/05.jpg" width = "10%" height = "10%" div align =center >  
+- Easyfly: Provided by Fourier Intelligence <img src="https://github.com/StevenShiyunhao/Easyflyprogrammer/blob/master/iamge/img/01.png" width = "7%" height = "7%" div align =center >
+- Lower-level code document: Provided by Fourier Intelligence. The file end up with bin or hex suffix <img src="https://github.com/StevenShiyunhao/Easyflyprogrammer/blob/master/iamge/img/02.png" width = "15%" height = "15%" div align =center >  
+- Offline programmer: <img src="https://github.com/StevenShiyunhao/Easyflyprogrammer/blob/master/iamge/img/03.jpg" width = "5%" height = "5%" div align =center >  
+- coding board and wire: <img src="https://github.com/StevenShiyunhao/Easyflyprogrammer/blob/master/iamge/img/04.jpg" width = "10%" height = "10%" div align =center >  <img src="https://github.com/StevenShiyunhao/Easyflyprogrammer/blob/master/iamge/img/05.jpg" width = "10%" height = "10%" div align =center >  
 ## Operation instruction
 -  **Flash the code to offline programmer**    
    Open the Easyfly software first.  
  
    
 1) Choose the right controller "stem32" and the type "STM32F405xG"  
-   <img src="https://github.com/StevenShiyunhao/images-/blob/master/2.png" width = "70%" height = "70%" div align =center >  
-   <img src="https://github.com/StevenShiyunhao/images-/blob/master/3.png" width = "70%" height = "70%" div align =center >
+   <img src="https://github.com/StevenShiyunhao/Easyflyprogrammer/blob/master/iamge/img/2.png" width = "70%" height = "70%" div align =center >  
+   <img src="https://github.com/StevenShiyunhao/Easyflyprogrammer/blob/master/iamge/img/3.png" width = "70%" height = "70%" div align =center >
    
 2) Choose the number from 10-15 which corresponds to the number in the programmer.   
    Notice: Choosing the number smaller than 10 will cause unpredictable error.  
